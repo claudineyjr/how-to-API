@@ -4,6 +4,7 @@ As dependências Nodemon e Express foram usadas e o projeto não tem uso comerci
 
 # Como instalar
 > git clone
+>
 > npm install
 
 # Como rodar o projeto
